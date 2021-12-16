@@ -4,7 +4,7 @@ name: Jorge Tabaco Zamora
 
 # Controls when the workflow will run
 on: developer
-# { com.tabaco.tv.apk }
+# com.tabaco.tv.apk java
 app: [ tabaco tv ] 
   # Triggers the workflow on push or pull request events but only for the main branch
 scrpt:
